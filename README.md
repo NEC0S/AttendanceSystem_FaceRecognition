@@ -14,25 +14,11 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 
 ## Technologies Used
 - **Python:** The primary programming language for the project.
-- **Face Recognition Library(https://pypi.org/project/face-recognition/):** For face detection and recognition tasks.
-- **OpenCV/CV2:** Used for image processing, allowing efficient handling of video streams or images.
+- **Face Recognition Library (https://pypi.org/project/face-recognition/):** For face detection and recognition tasks.
+- **OpenCV/CV2 (https://pypi.org/project/opencv-python/):** Used for image processing, allowing efficient handling of video streams or images.
 - **CSV/Excel:** Storing attendance data in a structured format for easy accessibility.
 
 ## Usage
 1. **Enrollment:** Students' faces are enrolled in the system during an initial setup.
 2. **Recognition:** The system recognizes and matches faces during live sessions.
 3. **Attendance Logging:** Successful matches are logged in a CSV/Excel file along with corresponding date and time information.
-
-## How to Run
-Include detailed instructions on how to set up and run the Smart Attendance System on local machines. Ensure that all dependencies are installed and provide guidance on the enrollment process.
-
-## Future Enhancements
-Consider potential improvements such as:
-- Integration with a database for scalable storage.
-- Enhancement of the user interface for better user experience.
-- Implementation of machine learning techniques to improve recognition accuracy over time.
-
-## Acknowledgments
-Credit any external libraries, tools, or resources used in the development of the Smart Attendance System.
-
-This project not only simplifies attendance tracking but also serves as an educational resource for those interested in facial recognition and computer vision applications using Python.

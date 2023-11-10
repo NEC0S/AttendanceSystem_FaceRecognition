@@ -14,7 +14,7 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 
 ## Technologies Used
 - **Python:** The primary programming language for the project.
-- **Face Recognition Library:** For face detection and recognition tasks.
+- **Face Recognition Library(https://pypi.org/project/face-recognition/):** For face detection and recognition tasks.
 - **OpenCV/CV2:** Used for image processing, allowing efficient handling of video streams or images.
 - **CSV/Excel:** Storing attendance data in a structured format for easy accessibility.
 

@@ -23,12 +23,6 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 2. **Recognition:** The system recognizes and matches faces during live sessions.
 3. **Attendance Logging:** Successful matches are logged in a CSV/Excel file along with corresponding date and time information.
 
-## Project Phase
-# Smart Attendance System with Face Recognition
-
-## Overview
-
-The Smart Attendance System with Face Recognition is a Python-based project designed to automate and streamline the attendance tracking process using OpenCV/CV2. This system stores attendance records in a CSV or Excel file format, including student IDs, names, and corresponding date and time stamps.
 
 ## Learning Plan
 

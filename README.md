@@ -43,12 +43,13 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 ### Week 2: OpenCV Basics
 
 - **Day 1-2:** Introduction to OpenCV
-  - Install OpenCV and explore its documentation.
+  - Introduction to OpenCV and explore its documentation.
   - Learn how to read and display images using OpenCV.
 
 - **Day 3-4:** Image Processing with OpenCV
   - Study basic image processing techniques like blurring, resizing, and thresholding.
   - Practice applying these techniques on sample images.
+  - Make a small project to count number of various objecs.
 
 - **Day 5-7:** Face Detection with OpenCV
   - Understand face detection algorithms.
@@ -85,13 +86,7 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
   - Debug any issues that arise during testing.
   - Document your code, explaining the functionality and usage.
 
-## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/smart-attendance-system.git`
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run the main script: `python main.py`
 
-## Contributors
 
-- Your Name <your.email@example.com>
 

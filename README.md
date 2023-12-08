@@ -36,16 +36,20 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
   - Study if statements, loops, and functions in Python.
   - Understand the concept of scope and how functions work.
 
-- **Day 5-7:** Introduction to NumPy
+- **Day 5-7:** Introduction to NumPy and Pandas
   - Install NumPy and learn about arrays and basic operations.
   - Practice with NumPy arrays and array manipulation.
+  - Learn basics of Pandas, Series, Dataframe.
 
-### Week 2: OpenCV Basics
+### Week 2: OpenCV and Matplotlib Basics
 
 - **Day 1-2:** Introduction to OpenCV
   - Introduction to OpenCV and explore its documentation.
   - Learn how to read and display images using OpenCV.
-
+  - Study basic image processing techniques like blurring, resizing, and thresholding.
+  - Practice applying these techniques on sample images.
+  - Make a small project to count number of various objecs.
+    
 - **Day 3-4:** Image Processing with OpenCV
   - Study basic image processing techniques like blurring, resizing, and thresholding.
   - Practice applying these techniques on sample images.
@@ -85,8 +89,13 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
   - Test your Smart Attendance System thoroughly.
   - Debug any issues that arise during testing.
   - Document your code, explaining the functionality and usage.
+ 
 
+##Resources
 
+###Week 1
+###Week 2
+###Week 3
 
 
 

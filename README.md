@@ -91,11 +91,11 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
   - Document your code, explaining the functionality and usage.
  
 
-##Resources
+## Resources
 
-###Week 1
-###Week 2
-###Week 3
+### Week 1
+### Week 2
+### Week 3
 
 
 

@@ -25,14 +25,14 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 
 ## Mentors
 
-### Mentor 1: [Hardik Khariwal]([link-to-mentor-profile-1](https://www.linkedin.com/in/hardikkhariwal/?originalSubdomain=in))
+[Hardik Khariwal] [Lin](https://www.linkedin.com/in/hardikkhariwal/?originalSubdomain=in)
 
 ![Mentor Image 1](link-to-mentor-image-1)
 
 - **Bio:** A short bio or background information about Mentor 1.
 - **Contact:** [Email or other contact information]
 
-### Mentor 2: [Abhishek Kumar][link-to-mentor-profile-2](https://www.linkedin.com/in/abhishek-kumar-236321275/)
+[Abhishek Kumar] [Lin](https://www.linkedin.com/in/abhishek-kumar-236321275/)
 
 ![Mentor Image 2](link-to-mentor-image-2)
 

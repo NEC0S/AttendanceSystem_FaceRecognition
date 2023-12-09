@@ -1,4 +1,4 @@
-# Smart Attendance System with Face Recognition
+# Attendance System with Face Recognition
 
 ## Overview
 The Smart Attendance System with Face Recognition is a Python-based project designed to automate and streamline the attendance tracking process. Leveraging the power of computer vision and facial recognition technologies, this project provides an intelligent solution for accurately recording attendance with date and time stamps.
@@ -25,14 +25,15 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 
 ## Mentors
 
-[Hardik Khariwal] [Lin](https://www.linkedin.com/in/hardikkhariwal/?originalSubdomain=in)
+Hardik Khariwal [Lin](https://www.linkedin.com/in/hardikkhariwal/?originalSubdomain=in)
 
 ![Mentor Image 1](link-to-mentor-image-1)
+![Screenshot 2023-12-10 011601](https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b)
 
 - **Bio:** A short bio or background information about Mentor 1.
 - **Contact:** [Email or other contact information]
 
-[Abhishek Kumar] [Lin](https://www.linkedin.com/in/abhishek-kumar-236321275/)
+Abhishek Kumar [Lin](https://www.linkedin.com/in/abhishek-kumar-236321275/)
 
 ![Mentor Image 2](link-to-mentor-image-2)
 
@@ -51,12 +52,12 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
   - Study if statements, loops, and functions in Python.
   - Understand the concept of scope and how functions work.
 
-- **Day 5-7:** Introduction to NumPy and Pandas
+- **Day 5-7:** Introduction to NumPy
   - Install NumPy and learn about arrays and basic operations.
   - Practice with NumPy arrays and array manipulation.
-  - Learn basics of Pandas, Series, Dataframe.
+  
 
-### Week 2: OpenCV and Matplotlib Basics
+### Week 2: Introduction to OpenCV 
 
 - **Day 1-2:** Introduction to OpenCV
   - Introduction to OpenCV and explore its documentation.

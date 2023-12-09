@@ -1,5 +1,24 @@
 # Smart Attendance System with Face Recognition
 
+## Mentors
+
+### Mentor 1: [Hardik Khariwal](link-to-mentor-profile-1)
+
+![Mentor Image 1](link-to-mentor-image-1)
+
+- **Role:** [Mentor Role 1]
+- **Bio:** A short bio or background information about Mentor 1.
+- **Contact:** [Email or other contact information]
+
+### Mentor 2: [Abhishek Kumar](link-to-mentor-profile-2)
+
+![Mentor Image 2](link-to-mentor-image-2)
+
+- **Role:** [Mentor Role 2]
+- **Bio:** A short bio or background information about Mentor 2.
+- **Contact:** [Email or other contact information]
+
+
 ## Overview
 The Smart Attendance System with Face Recognition is a Python-based project designed to automate and streamline the attendance tracking process. Leveraging the power of computer vision and facial recognition technologies, this project provides an intelligent solution for accurately recording attendance with date and time stamps.
 

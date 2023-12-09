@@ -31,6 +31,7 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/68bd80e3-42f1-4a24-831d-722eb44f713d" alt="Mentor Image 1" width="200"/>
 
 22b3954@iitb.ac.in
+
 Sophomore @IITB | Exofly | Speezy | 
 Techfest | AI/ML Enthusiast
 
@@ -40,8 +41,9 @@ Techfest | AI/ML Enthusiast
 
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b" alt="Mentor Image 1" width="200"/>
 
-22b2210@iitb.ac.in
-Sophomore @IITB | Design Engg. @Rakshak IITB | 
+22b2210@iitb.ac.in\\
+
+Sophomore @IITB | Design Engg. @Rakshak IITB | \\
 Techfest | AI/ML Enthusiast
 
 

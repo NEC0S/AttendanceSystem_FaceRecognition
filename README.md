@@ -31,16 +31,15 @@ Hardik Khariwal [Lin](https://www.linkedin.com/in/hardikkhariwal/?originalSubdom
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/68bd80e3-42f1-4a24-831d-722eb44f713d" alt="Mentor Image 1" width="200"/>
 
 
-- **Bio:** A short bio or background information about Mentor 1
-.
-- **Contact:** [Email or other contact information]
+Sophomore @IITB | Exofly | Speezy | Techfest | AI/ML Enthusiast
+22b3954@iitb.ac.in
 
 Abhishek Kumar [Lin](https://www.linkedin.com/in/abhishek-kumar-236321275/)
 
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b" alt="Mentor Image 1" width="200"/>
 
-- **Bio:** A short bio or background information about Mentor 2.
-- **Contact:** [Email or other contact information]
+Sophomore @IITB | Design Engg. @Rakshak IITB | Techfest | AI/ML Enthusiast
+22b2210@iitb.ac.in
 
 ## Learning Plan
 

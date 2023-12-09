@@ -47,6 +47,26 @@ Techfest | AI/ML Enthusiast
 
 22b2210@iitb.ac.in
 
+
+<div style="display: flex; flex-wrap: wrap;">
+
+  <div style="flex: 50%; padding: 10px;">
+    <h3>Mentor 1: [Mentor Name 1](link-to-mentor-profile-1)</h3>
+    <img src="link-to-mentor-image-1" alt="Mentor Image 1" width="200"/>
+    <p><strong>Role:</strong> [Mentor Role 1]</p>
+    <p><strong>Bio:</strong> A short bio or background information about Mentor 1.</p>
+    <p><strong>Contact:</strong> [Email or other contact information]</p>
+  </div>
+
+  <div style="flex: 50%; padding: 10px;">
+    <h3>Mentor 2: [Mentor Name 2](link-to-mentor-profile-2)</h3>
+    <img src="link-to-mentor-image-2" alt="Mentor Image 2" width="200"/>
+    <p><strong>Role:</strong> [Mentor Role 2]</p>
+    <p><strong>Bio:</strong> A short bio or background information about Mentor 2.</p>
+    <p><strong>Contact:</strong> [Email or other contact information]</p>
+  </div>
+
+</div>
 ## Learning Plan
 
 ### Week 1: Python Basics and NumPy

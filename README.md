@@ -28,7 +28,8 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 Hardik Khariwal [Lin](https://www.linkedin.com/in/hardikkhariwal/?originalSubdomain=in)
 
 ![Mentor Image 1](link-to-mentor-image-1)
-![Screenshot 2023-12-10 011601](https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b)
+<img src="[link-to-mentor-image-1](https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b)" alt="Mentor Image 1" width="200"/>
+![Screenshot 2023-12-10 011601]()
 
 - **Bio:** A short bio or background information about Mentor 1.
 - **Contact:** [Email or other contact information]

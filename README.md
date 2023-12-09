@@ -41,9 +41,9 @@ Techfest | AI/ML Enthusiast
 
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b" alt="Mentor Image 1" width="200"/>
 
-22b2210@iitb.ac.in\\
+22b2210@iitb.ac.in
 
-Sophomore @IITB | Design Engg. @Rakshak IITB | \\
+Sophomore @IITB | Design Engg. @Rakshak IITB |
 Techfest | AI/ML Enthusiast
 
 

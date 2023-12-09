@@ -66,7 +66,7 @@ Techfest | AI/ML Enthusiast
     <p><strong>Contact:</strong> [Email or other contact information]</p>
   </div>
 
-</div>
+
 ## Learning Plan
 
 ### Week 1: Python Basics and NumPy

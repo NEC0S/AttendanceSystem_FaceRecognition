@@ -30,41 +30,22 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/68bd80e3-42f1-4a24-831d-722eb44f713d" alt="Mentor Image 1" width="200"/>
 
-
+22b3954@iitb.ac.in
 Sophomore @IITB | Exofly | Speezy | 
-
 Techfest | AI/ML Enthusiast
 
-22b3954@iitb.ac.in
+
 
 **Abhishek Kumar** [Lin](https://www.linkedin.com/in/abhishek-kumar-236321275/)
 
 <img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b" alt="Mentor Image 1" width="200"/>
 
+22b2210@iitb.ac.in
 Sophomore @IITB | Design Engg. @Rakshak IITB | 
-
 Techfest | AI/ML Enthusiast
 
-22b2210@iitb.ac.in
 
 
-<div style="display: flex; flex-wrap: wrap;">
-
-  <div style="flex: 50%; padding: 10px;">
-    <h3>Mentor 1: [Mentor Name 1](link-to-mentor-profile-1)</h3>
-    <img src="link-to-mentor-image-1" alt="Mentor Image 1" width="200"/>
-    <p><strong>Role:</strong> [Mentor Role 1]</p>
-    <p><strong>Bio:</strong> A short bio or background information about Mentor 1.</p>
-    <p><strong>Contact:</strong> [Email or other contact information]</p>
-  </div>
-
-  <div style="flex: 50%; padding: 10px;">
-    <h3>Mentor 2: [Mentor Name 2](link-to-mentor-profile-2)</h3>
-    <img src="link-to-mentor-image-2" alt="Mentor Image 2" width="200"/>
-    <p><strong>Role:</strong> [Mentor Role 2]</p>
-    <p><strong>Bio:</strong> A short bio or background information about Mentor 2.</p>
-    <p><strong>Contact:</strong> [Email or other contact information]</p>
-  </div>
 
 
 ## Learning Plan

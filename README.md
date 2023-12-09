@@ -32,7 +32,7 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 - **Bio:** A short bio or background information about Mentor 1.
 - **Contact:** [Email or other contact information]
 
-### Mentor 2: [Abhishek Kumar]([link-to-mentor-profile-2](https://www.linkedin.com/in/abhishek-kumar-236321275/))
+### Mentor 2: [Abhishek Kumar][link-to-mentor-profile-2](https://www.linkedin.com/in/abhishek-kumar-236321275/)
 
 ![Mentor Image 2](link-to-mentor-image-2)
 

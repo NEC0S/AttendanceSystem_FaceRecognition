@@ -28,10 +28,11 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 Hardik Khariwal [Lin](https://www.linkedin.com/in/hardikkhariwal/?originalSubdomain=in)
 
 
-<img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/d138b8d7-1dae-4882-b6be-56b262f7523b" alt="Mentor Image 1" width="200"/>
+<img src="https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/68bd80e3-42f1-4a24-831d-722eb44f713d" alt="Mentor Image 1" width="200"/>
 
 
-- **Bio:** A short bio or background information about Mentor 1.
+- **Bio:** A short bio or background information about Mentor 1
+.
 - **Contact:** [Email or other contact information]
 
 Abhishek Kumar [Lin](https://www.linkedin.com/in/abhishek-kumar-236321275/)

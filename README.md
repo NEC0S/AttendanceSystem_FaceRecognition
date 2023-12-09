@@ -54,64 +54,60 @@ Techfest | AI/ML Enthusiast
 
 ### Week 1: Python Basics and NumPy
 
-- **Day 1-2:** Introduction to Python
+- *Day 1-3:* Introduction to Python
   - Install Python and a code editor.
   - Learn basic syntax, variables, and data types.
-
-- **Day 3-4:** Control Flow and Functions
   - Study if statements, loops, and functions in Python.
   - Understand the concept of scope and how functions work.
-
-- **Day 5-7:** Introduction to NumPy
+    
+- *Day 4-5:* Introduction to NumPy
   - Install NumPy and learn about arrays and basic operations.
   - Practice with NumPy arrays and array manipulation.
-  
 
-### Week 2: Introduction to OpenCV 
-
-- **Day 1-2:** Introduction to OpenCV
+- *Day 6-7:* Introduction to OpenCV
   - Introduction to OpenCV and explore its documentation.
   - Learn how to read and display images using OpenCV.
   - Study basic image processing techniques like blurring, resizing, and thresholding.
   - Practice applying these techniques on sample images.
-  - Make a small project to count number of various objecs.
-    
-- **Day 3-4:** Image Processing with OpenCV
-  - Study basic image processing techniques like blurring, resizing, and thresholding.
-  - Practice applying these techniques on sample images.
-  - Make a small project to count number of various objecs.
 
-- **Day 5-7:** Face Detection with OpenCV
+### Week 2: Advanced OpenCV and Project Setup
+
+- *Day 1-2:*  Face Detection and Recognition with OpenCV
+  - Understand face detection algorithms.
+  - Implement face detection using OpenCV.
+
+
+- *Day 5-7:* Face Detection with OpenCV
   - Understand face detection algorithms.
   - Implement face detection using OpenCV.
   - Experiment with different parameters for face detection.
 
-### Week 3: Advanced OpenCV and Project Setup
+### Week 3: 
 
-- **Day 1-2:** Image Features and Object Detection
+- *Day 1-2:* Image Features and Object Detection
   - Learn about keypoint detection and matching.
   - Understand object detection using Haar cascades.
 
-- **Day 3-4:** Introduction to GUI (Graphical User Interface) with Tkinter
+- *Day 3-4:* Introduction to GUI (Graphical User Interface) with Tkinter
   - Install Tkinter and understand its basics.
   - Create a simple GUI for your attendance system.
 
-- **Day 5-7:** Project Setup and Planning
+- *Day 5-7:* Project Setup and Planning
   - Plan the structure of your Smart Attendance System.
   - Set up the project directory and version control (e.g., Git).
   - Create a GitHub repository for your project.
 
 ### Week 4: Project Implementation and Documentation
 
-- **Day 1-3:** Face Recognition and Attendance Logging
+- *Day 1-3:* Face Recognition and Attendance Logging
   - Implement face recognition using OpenCV.
   - Integrate the face recognition module with the attendance logging system.
 
-- **Day 4-5:** CSV/Excel File Handling
+- *Day 4-5:* CSV/Excel File Handling
   - Learn how to read and write CSV or Excel files in Python.
   - Implement code to store attendance records in the desired format.
 
-- **Day 6-7:** Testing, Debugging, and Documentation
+- *Day 6-7:* Testing, Debugging, and Documentation
   - Test your Smart Attendance System thoroughly.
   - Debug any issues that arise during testing.
   - Document your code, explaining the functionality and usage.

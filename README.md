@@ -44,7 +44,7 @@ Techfest | AI/ML Enthusiast
 22b2210@iitb.ac.in
 
 Sophomore @IITB | Design Engg. @Rakshak IITB |
-Techfest | AI/ML Enthusiast
+Techfest
 
 
 

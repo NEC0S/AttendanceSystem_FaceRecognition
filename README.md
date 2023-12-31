@@ -27,3 +27,7 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 
 
 
+https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/004286ee-a426-44b2-87bc-92447784cb5e
+
+
+

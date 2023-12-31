@@ -23,11 +23,10 @@ Traditional attendance systems can be time-consuming and prone to errors. The Sm
 2. **Recognition:** The system recognizes and matches faces during live sessions.
 3. **Attendance Logging:** Successful matches are logged in a CSV/Excel file along with corresponding date and time information.
 
-
-
-
-
+##Test
 https://github.com/NEC0S/AttendanceSystem_FaceRecognition/assets/132522389/004286ee-a426-44b2-87bc-92447784cb5e
+
+
 
 
 
